@@ -1,5 +1,4 @@
-/demo/input
-/demo/input/
-/demo/out/
-/demo/model_final.pth
+/model_zoo/input
 /.idea/
+/demo/input
+/demo/out/
